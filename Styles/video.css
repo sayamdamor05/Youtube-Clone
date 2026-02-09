@@ -52,8 +52,6 @@
 
       }
 
-      @media (min-width: 751px) and (max-width: 999px)
-      {
       .video-time {
         font-family: Roboto, Arial;
         font-size: 12px;
@@ -65,5 +63,4 @@
         position: absolute;
         bottom: 8px;
         right: 5px;
-       }
       }
